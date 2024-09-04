@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.loginDiv {
+  width: max-content;
+  height: max-content;
+}
+
+.displayNone {
+  display: none;
+}
