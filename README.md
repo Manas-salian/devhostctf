@@ -1,2 +1,2 @@
 # devhostctf
-temporary repo to host the files for devhos bitbreaker ctf 2024
+temporary repo to host the files for devhost bitbreaker ctf 2024
